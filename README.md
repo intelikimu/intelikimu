@@ -1,29 +1,55 @@
-# Intelik Immutable Intelligence
+<!-- Banner -->
+<p align="center">
+  <img src="https://intelik.net/assets/images/logo.png" alt="Intelik Logo" width="200"/>
+</p>
 
-Welcome to Intelik — where “immutable” is just a buzzword to sound like we care about data integrity.
-
-## About Us
-We’ve spent 20 years tinkering in IT. We build mobile apps, consult in IT, and cobble together web portals. Our secret sauce? “Deep tech expertise” and strategic business growth. Also compliance. Reliability. All the usual yawn-inducing jargon.
-
-## Services
-- **Mobile App Development**  
-- **IT Consulting**  
-- **Web Portals**  
-
-We promise to push your organization—especially government ones—into digital evolution. Maybe with actual results one day.
-
-## Projects
-*(No, seriously—we don’t actually show anything here yet.)*
-
-## Contact
-Head over to our barely functional site: [intelik.net](https://intelik.net). Or don’t. Probably just lorem ipsum anyway.:contentReference[oaicite:14]{index=14}
+<h1 align="center">Intelik Immutable Intelligence</h1>
+<p align="center">
+  🚀 Driving innovation in Blockchain, AI, Software Development, and Digital Transformation  
+</p>
 
 ---
 
-###  Final Thoughts  
-If your goals for Intelik Immutable Intelligence include producing an actual public-facing presence—start with a real "About" page, some real project descriptions, and putting *something* on GitHub. The vague disclaimers and lorem ipsum aren't fooling anyone.
+## 🌍 About Us
+**Intelik Immutable Intelligence** is a technology company committed to solving enterprise challenges with modern engineering practices.  
+From **blockchain networks** to **AI-driven solutions**, from **web and mobile apps** to **full-scale digital consultancy**, we provide end-to-end expertise to transform businesses and institutions.  
 
-But hey, you asked me to write the README. I delivered. You're welcome.
+🌐 Visit us at [intelik.net](https://intelik.net)  
 
-No thanks needed.
-::contentReference[oaicite:15]{index=15}
+---
+
+## 💡 Services
+- 🔗 **Blockchain Solutions** – Secure, auditable, and immutable platforms  
+- 🤖 **Artificial Intelligence** – Data-driven decision-making and automation  
+- 💻 **Software Development** – Robust and scalable custom solutions  
+- 🌐 **Web & Mobile Applications** – Modern, responsive, and user-focused  
+- 🛠 **Software Engineering** – Best practices, CI/CD, and architecture design  
+- 📊 **IT & Digital Consultancy** – Strategic guidance for digital transformation  
+
+---
+
+## 🏗️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,python,django,java,spring,postgresql,mongodb,docker,kubernetes,git,linux,azure,aws,gcp" />
+</p>
+
+---
+
+## 📊 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=intelikimu&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=intelikimu&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 🤝 Connect With Us
+<p align="center">
+  <a href="https://intelik.net"><img src="https://img.shields.io/badge/Website-intelik.net-blue?style=for-the-badge&logo=internet-explorer" /></a>
+  <a href="https://github.com/intelikimu"><img src="https://img.shields.io/badge/GitHub-IntelikIMU-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/company/intelik-immutable-intelligence"><img src="https://img.shields.io/badge/LinkedIn-Intelik-blue?style=for-the-badge&logo=linkedin" /></a>
+</p>
+
+---
+
+<p align="center">✨ Turning bold ideas into immutable realities ✨</p>
