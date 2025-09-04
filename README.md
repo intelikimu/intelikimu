@@ -1,36 +1,37 @@
-<!-- Banner -->
+<!-- Animated Banner -->
 <p align="center">
-  <img src="https://intelik.net/assets/images/logo.png" alt="Intelik Logo" width="200"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=1E90FF&center=true&vCenter=true&width=1000&lines=Intelik+Immutable+Intelligence;Blockchain+%7C+AI+%7C+Software+Development+%7C+Consultancy;We+Build+Everything+Tech" alt="Intelik Animated Banner" />
 </p>
 
-<h1 align="center">Intelik Immutable Intelligence</h1>
+<h1 align="center">Welcome to Intelik Immutable Intelligence</h1>
 <p align="center">
-  🚀 Driving innovation in Blockchain, AI, Software Development, and Digital Transformation  
+  🚀 From Blockchain to AI, from Web Apps to Enterprise Consultancy — we do it all.  
 </p>
 
 ---
 
 ## 🌍 About Us
-**Intelik Immutable Intelligence** is a technology company committed to solving enterprise challenges with modern engineering practices.  
-From **blockchain networks** to **AI-driven solutions**, from **web and mobile apps** to **full-scale digital consultancy**, we provide end-to-end expertise to transform businesses and institutions.  
+**Intelik Immutable Intelligence** is a technology powerhouse delivering cutting-edge digital solutions.  
+We specialize in **blockchain, AI, software engineering, and consultancy**, enabling organizations to transform, scale, and thrive in the digital age.  
 
 🌐 Visit us at [intelik.net](https://intelik.net)  
 
 ---
 
 ## 💡 Services
-- 🔗 **Blockchain Solutions** – Secure, auditable, and immutable platforms  
-- 🤖 **Artificial Intelligence** – Data-driven decision-making and automation  
-- 💻 **Software Development** – Robust and scalable custom solutions  
-- 🌐 **Web & Mobile Applications** – Modern, responsive, and user-focused  
-- 🛠 **Software Engineering** – Best practices, CI/CD, and architecture design  
-- 📊 **IT & Digital Consultancy** – Strategic guidance for digital transformation  
+- 🔗 **Blockchain Solutions** – Smart contracts, Hyperledger, audit trails, decentralized systems  
+- 🤖 **Artificial Intelligence** – ML models, NLP, automation, data-driven decision-making  
+- 💻 **Software Development** – Full-stack apps, enterprise platforms, SaaS products  
+- 🌐 **Web & Mobile Applications** – Scalable, modern, and user-friendly apps  
+- 🛠 **Software Engineering** – Architecture, CI/CD, DevOps pipelines  
+- ☁️ **Cloud & Infrastructure** – Kubernetes, Docker, AWS, Azure, GCP  
+- 📊 **IT & Business Consultancy** – End-to-end guidance for digital transformation  
 
 ---
 
-## 🏗️ Tech Stack
+## 🏗️ Tech Stack (Our Team Knows It All 😎)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,python,django,java,spring,postgresql,mongodb,docker,kubernetes,git,linux,azure,aws,gcp" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,tailwind,bootstrap,html,css,js,ts,python,django,flask,java,spring,cs,dotnet,php,laravel,ruby,rails,go,rust,c,cpp,nodejs,express,nestjs,mongodb,postgresql,mysql,sqlite,redis,prisma,graphql,apollo,docker,kubernetes,terraform,ansible,jenkins,git,github,gitlab,linux,bash,nginx,aws,azure,gcp,firebase,vercel,netlify,tensorflow,pytorch,sklearn" />
 </p>
 
 ---
@@ -39,6 +40,7 @@ From **blockchain networks** to **AI-driven solutions**, from **web and mobile a
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=intelikimu&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=intelikimu&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intelikimu&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -52,4 +54,4 @@ From **blockchain networks** to **AI-driven solutions**, from **web and mobile a
 
 ---
 
-<p align="center">✨ Turning bold ideas into immutable realities ✨</p>
+<p align="center">✨ If it’s tech, we know it. If it’s complex, we make it simple. ✨</p>
